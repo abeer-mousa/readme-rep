@@ -1,0 +1,4 @@
+---
+title: GlobalCategories
+hidden: false
+---

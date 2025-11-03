@@ -1,0 +1,4 @@
+- categoriescontroller_listcategories
+- categoriescontroller_getcategory
+- categoriescontroller_getcategorybyexternalid
+- categoriescontroller_synccategories

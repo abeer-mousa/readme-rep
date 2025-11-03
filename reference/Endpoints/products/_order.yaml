@@ -1,0 +1,10 @@
+- productscontroller_getproducts
+- productscontroller_listpopulated
+- productscontroller_popular
+- productscontroller_popularcategories
+- productscontroller_search
+- productscontroller_updatebyexternalid
+- productscontroller_getbyexternalid
+- productscontroller_get
+- productscontroller_list
+- productscontroller_update

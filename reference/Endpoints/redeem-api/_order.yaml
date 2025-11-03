@@ -1,0 +1,5 @@
+- redeemapicontroller_createredeemapiconfig
+- redeemapicontroller_createpromotionapiconfig
+- redeemapicontroller_createarchiveapiconfig
+- redeemapicontroller_get
+- redeemapicontroller_update

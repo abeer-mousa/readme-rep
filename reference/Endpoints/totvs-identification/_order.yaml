@@ -1,0 +1,3 @@
+- identificationcontroller_getidentificationforms
+- identificationcontroller_identifyuser
+- identificationcontroller_authenticateidentifieduser

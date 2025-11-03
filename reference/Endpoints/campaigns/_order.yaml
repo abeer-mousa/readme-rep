@@ -1,0 +1,12 @@
+- campaignscontroller_create
+- campaignscontroller_list
+- campaignscontroller_getcampaignproducts
+- campaignscontroller_gettargetcount
+- campaignscontroller_getpopulatedcampaign
+- campaignscontroller_get
+- campaignscontroller_update
+- campaignscontroller_delete
+- campaignscontroller_getbyboosterid
+- campaignscontroller_generatereport
+- campaignscontroller_submit
+- campaignscontroller_uploadcsv

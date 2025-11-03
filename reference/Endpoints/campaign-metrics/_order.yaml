@@ -1,0 +1,8 @@
+- campaignmetricscontroller_create
+- campaignmetricscontroller_get
+- campaignmetricscontroller_gettotalsales
+- campaignmetricscontroller_gettotalclicks
+- campaignmetricscontroller_getkpimetrics
+- campaignmetricscontroller_getkpitrends
+- campaignmetricscontroller_gettopbrandsperformance
+- campaignmetricscontroller_gettopproductsperformance

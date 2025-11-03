@@ -1,0 +1,6 @@
+- campaignnotificationcontroller_create
+- campaignnotificationcontroller_getbyplacementid
+- campaignnotificationcontroller_listbycampaign
+- campaignnotificationcontroller_get
+- campaignnotificationcontroller_delete
+- campaignnotificationcontroller_update

@@ -1,0 +1,11 @@
+- genericorderscontroller_getchartsdata
+- genericorderscontroller_getoverviewdata
+- genericorderscontroller_getsalesstatistics
+- genericorderscontroller_get
+- genericorderscontroller_create
+- genericorderscontroller_return
+- genericorderscontroller_createotp
+- genericorderscontroller_resendotp
+- genericorderscontroller_verifyotp
+- genericorderscontroller_uploadcsv
+- genericorderscontroller_getcustomerdetails

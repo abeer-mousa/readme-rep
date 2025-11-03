@@ -1,0 +1,10 @@
+- discountscontroller_list
+- discountscontroller_getcashbacksummary
+- discountscontroller_getcashbacksummarybyuser
+- discountscontroller_exportdata
+- discountscontroller_listbyadmin
+- discountscontroller_gettotals
+- discountscontroller_get
+- discountscontroller_updatediscount
+- manualdiscountscontroller_clear
+- manualdiscountscontroller_apply

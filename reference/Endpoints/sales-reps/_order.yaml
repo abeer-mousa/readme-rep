@@ -1,0 +1,8 @@
+- salesrepscontroller_list
+- salesrepscontroller_create
+- salesrepscontroller_listall
+- salesrepscontroller_get
+- salesrepscontroller_update
+- salesrepscontroller_delete
+- salesrepscontroller_add
+- salesrepscontroller_listbyadminid

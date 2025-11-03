@@ -1,0 +1,6 @@
+- appfreeshippingcontroller_getbyid
+- appfreeshippingcontroller_update
+- appfreeshippingcontroller_delete
+- appfreeshippingcontroller_list
+- appfreeshippingcontroller_create
+- appfreeshippingcontroller_enable
